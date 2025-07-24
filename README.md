@@ -29,8 +29,7 @@ portfolio/
 
  Example:
 
-![Homepage](<img width="942" height="430" alt="Capture" src="https://github.com/user-attachments/assets/23275f59-de89-4ea6-aa42-78e1b67066b7" />
-)
+![Homepage](images/capture.png)
 
 ---
 
