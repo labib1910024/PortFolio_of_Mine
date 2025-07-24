@@ -69,10 +69,6 @@ Example:
 
 ---
 
-## 🔹 Portfolio (`portfolio.ht
----
-
-
 ## Technologies Used
 
 - HTML5
