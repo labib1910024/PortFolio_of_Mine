@@ -29,7 +29,12 @@ portfolio/
 
  Example:
 
-![Homepage]<img width="1884" height="859" alt="image" src="https://github.com/user-attachments/assets/cbde8b21-6e3a-4ee9-a98a-ea99c6d3365b" />
+<img width="1884" height="859" alt="image" src="https://github.com/user-attachments/assets/cbde8b21-6e3a-4ee9-a98a-ea99c6d3365b" />
+<img width="1882" height="664" alt="image" src="https://github.com/user-attachments/assets/6ca309da-a0be-44fc-ab07-02f389f1c7dd" />
+<img width="1868" height="806" alt="image" src="https://github.com/user-attachments/assets/66110ca4-c4be-444d-a6c0-3de9994e287f" />
+<img width="1280" height="369" alt="image" src="https://github.com/user-attachments/assets/b33a4be3-dc15-48f7-8837-ec70b029194d" />
+
+
 
 
 ---
@@ -46,7 +51,8 @@ portfolio/
 
 Example:
 
-![About Me](images/about-preview.png)
+<img width="1280" height="597" alt="image" src="https://github.com/user-attachments/assets/1357ac14-0cfa-4252-affe-dd6c725df039" />
+
 
 ---
 
@@ -58,7 +64,8 @@ Example:
 
 Example:
 
-![Contact Page](images/contact-preview.png)
+<img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/c804b4d0-5819-4f9d-af1e-e6801eba8c23" />
+
 
 ---
 
