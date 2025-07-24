@@ -1,10 +1,10 @@
-# 💼 Personal Portfolio Website
+#  Personal Portfolio Website
 
 This is a responsive and interactive **personal portfolio website** showcasing my background, education, interests, achievements, and contact information. It is built with **HTML, CSS, and JavaScript** — with smooth responsiveness and clean UI design.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 portfolio/
 ├── index.html
@@ -21,75 +21,51 @@ portfolio/
 
 ---
 
-## 🔹 Homepage (`index.html`)
+##  Homepage (`index.html`)
 
 - Responsive navbar
 - Hamburger menu that opens from the right side on smaller screens
 - Introductory text and animated "About Me" text box with typewriter effect
 
-📷 Example:
+ Example:
 
 ![Homepage](images/homepage-preview.png)
 
 ---
 
-## 🔹 About Me (`about.html`)
+##  About Me (`about.html`)
 
 - Shows detailed personal info:
-  - 📅 Birthdate: 17.12.2001  
-  - 🏫 School: Ashuganj Tap Bidyut Kendra High School  
-  - 🏛️ College: Ibn Taimiya School & College  
-  - 🏠 Birthplace: Ashuganj  
+  -  Birthdate: 17.12.2001  
+  -  School: Ashuganj Tap Bidyut Kendra High School  
+  -  College: Ibn Taimiya School & College  
+  -  Birthplace: Ashuganj  
   - 🎓 University: RUET  
 - Includes hobbies and interests
 
-📷 Example:
+Example:
 
 ![About Me](images/about-preview.png)
 
 ---
 
-## 🔹 Contact Me (`contact.html`)
+##  Contact Me (`contact.html`)
 
-- Left side: personal contact info (📞 phone, ✉️ email, and social links like Facebook, GitHub, LinkedIn)
+- Left side: personal contact info ( phone, email and social links like Facebook, GitHub, LinkedIn)
 - Right side: message form for sending custom messages
 - Styled with dark background for professional look
 
-📷 Example:
+Example:
 
 ![Contact Page](images/contact-preview.png)
 
 ---
 
-## 🔹 Portfolio (`portfolio.html`)
-
-### 🎓 Section 1: Institute
-
-Displays educational institutions with:
-- Logo on left
-- Institute name on right
-
-📷 Example:
-
-![Institute Section](images/institutes-preview.png)
-
+## 🔹 Portfolio (`portfolio.ht
 ---
 
-### 🏆 Section 2: Achievements
 
-Displays certificates under the "Achievements" heading.
-
-Each certificate has:
-- Image thumbnail
-- Title/label
-
-📷 Example:
-
-![Achievements Section](images/certificates-preview.png)
-
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3 (Flexbox & Grid)
@@ -99,7 +75,7 @@ Each certificate has:
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 1. Clone this repository
 2. Open `index.html` in your browser
@@ -108,22 +84,10 @@ Each certificate has:
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Md. Sajidur Rahman**  
 Electrical and Computer Engineering, RUET  
 Passionate about embedded systems, web development, and machine learning.
 
 ---
-
-## 🔗 Socials
-
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
-- 📘 [Facebook](https://facebook.com/yourprofile)
-
----
-
-## 📸 Screenshots Directory (Optional)
-
-You can add the following preview images in `images/` for README visualization:
