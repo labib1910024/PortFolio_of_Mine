@@ -5,7 +5,7 @@ This is a responsive and interactive **personal portfolio website** showcasing m
 ---
 
 ##  Project Structure
-
+```bash
 portfolio/
 ├── index.html
 ├── about.html
@@ -18,7 +18,7 @@ portfolio/
 ├── images/
 │   └── all your images
 └── README.md
-
+```
 ---
 
 ##  Homepage (`index.html`)
